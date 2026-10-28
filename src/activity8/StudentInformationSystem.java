@@ -42,7 +42,7 @@ public class StudentInformationSystem {
         //Display a message based on the total
         System.out.print("Result     : ");
         if (totalMark >= 80) {
-            System.out.println("Excellent");
+            System.out.println("Excellent!!!!");
         } else if (totalMark >= 50) {
             System.out.println("Good");
         } else {
